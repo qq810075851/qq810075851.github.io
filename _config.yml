@@ -1,12 +1,12 @@
 # Basic
-title: 潘柏信
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+title: 张少强
+subtitle: 个人网站
+description: 欢迎来到我的个人博客~
 # 头像里面的标题
 avatarTitle: leopardpan
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
+avatarDesc: python开发 / 人工智能 / 数据分析
+url: "https://qq810075851.github.io"
 
 # Comment
 comment:
@@ -16,19 +16,19 @@ comment:
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    weibo: qianglong68 
+    github: qq810075851
     # zhihu: panpanleopard
     # juejin: xxx
     jianshu: 2ada30d8d0f7
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: 810075851@qq.com
 
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
 baidu:
-    id: xxxx  
+    id: 80312d73133334a6288054396bf5bb5e 
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
