@@ -5,7 +5,7 @@ description: 欢迎来到我的个人博客~
 # 头像里面的标题
 avatarTitle: Anderson
 # 头像里面的描述
-avatarDesc: 人工智能 / 数据分析 / Python开发
+avatarDesc: Web前端开发
 url: "https://qq810075851.github.io"
 
 # Comment
@@ -20,7 +20,7 @@ social:
     github: qq810075851
     # zhihu: panpanleopard
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    jianshu: 
     # twitter: 
     mail: 810075851@qq.com
 
